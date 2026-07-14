@@ -32,9 +32,9 @@ A solução proposta é uma experiência conversacional com recomendações auto
 
 ## 📦 Entregável da IA
 - Plano de MVP com:
-  - Principais telas (chat, relatórios, metas).
-  - Recursos necessários (NLP, categorização automática, motor de recomendações).
-  - Esboço de validação inicial (testes com usuários iniciantes e diversidade de perfis).
+- Principais telas (chat, relatórios, metas).
+- Recursos necessários (NLP, categorização automática, motor de recomendações).
+- Esboço de validação inicial (testes com usuários iniciantes e diversidade de perfis).
 - Linguagem acessível e tom educativo em português.
 - Garantia de que o design siga princípios universais de acessibilidade.
 
