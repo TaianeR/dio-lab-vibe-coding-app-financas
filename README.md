@@ -75,8 +75,9 @@ Aplicar design universal em um app significa pensar em acessibilidade desde o in
 Interações com o Lovable:
 
 > Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document). {PRD}
-> adicione graficos
-> adicione filtros de periodo, e adicione que de pra exportar relatórios.
+
+> Adicione graficos, 
+> filtros de periodo, e adicione que de pra exportar relatórios.
 
 Resultado final no Lovable:
 
